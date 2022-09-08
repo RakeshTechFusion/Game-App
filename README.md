@@ -2,7 +2,7 @@
 
 ![](/assets/presentation.png)
 <p align="center">
-  Shopping Cart for <a href="https://rakesh-swain.netlify.app/">The Odin Project</a>
+  contact me <a href="https://rakesh-swain.netlify.app/">Portfolio</a>
 </p>
 
 ## Demo
